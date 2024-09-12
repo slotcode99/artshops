@@ -1,0 +1,9 @@
+-5 modalnih prozora jos ostalo
+
+-svi html fajlovi se micu i stavljaju se modalni prozori umesto njih
+
+-css modal 20 ne kopiraj veci je glavni kvadar
+
+-css modal 25 ne kopiraj pre mali je
+
+-css modal 26 ne kopiraj pre mali je
